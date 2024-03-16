@@ -9,18 +9,15 @@ function Header() {
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                         <i class="fa fa-bars"></i>
                     </button>
-                    <a class="navbar-brand" href="index.html">browny</a>
+                    <a class="navbar-brand" href="index.html">Abdulrhman</a>
                 </div>
                 <div class="collapse navbar-collapse menu-ui-design" id="navbar-menu">
                     <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
                     <li class=" smooth-menu active"></li>
-                        <li class=" smooth-menu"><a href="#education">education</a></li>
+                        <li class="smooth-menu"><a href="#about">about</a></li>
                         <li class="smooth-menu"><a href="#skills">skills</a></li>
-                        <li class="smooth-menu"><a href="#experience">experience</a></li>
-                        <li class="smooth-menu"><a href="#profiles">profile</a></li>
                         <li class="smooth-menu"><a href="#portfolio">portfolio</a></li>
-                        <li class="smooth-menu"><a href="#clients">clients</a></li>
-                        <li class="smooth-menu"><a href="#contact">contact</a></li>
+                        <li class="smooth-menu"><a href="#contact">contact me</a></li>
                     </ul>
                 </div>
             </div>
